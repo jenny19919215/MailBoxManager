@@ -1,0 +1,14 @@
+ant clean
+ant undeploy
+ant build
+ant depoly
+java client.UserDirectoryClient
+java client.MailBoxClient
+
+
+https://www-inf.it-sudparis.eu/phpMyAdmin
+
+login:adm_csc5521_5
+password:Tuesday12October
+
+
